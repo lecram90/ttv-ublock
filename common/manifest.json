@@ -1,8 +1,8 @@
 {
-	"name": "TTV ad-block",
-	"version": "2.1.0",
-	"description": "Block ads on that certain streaming website",
-	"manifest_version": 2,
+	"name": "TEST TW.tv BLCKR",
+	"version": "3.1.0",
+	"description": "just testing stuff",
+	"manifest_version": 3,
 	"background": {
 		"scripts": ["background.js"],
 		"persistent": true
